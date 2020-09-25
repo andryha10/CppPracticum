@@ -20,7 +20,7 @@ double max3x(double x, double y, double z) {
 }
 
 
-int main() {
+int mainn() {
 
     double x, y, z;
 
