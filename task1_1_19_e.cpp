@@ -11,7 +11,7 @@ double deriv(int a, int x) {
 }
 int main() {
 	int a, x;
-	printf("Enter a,x:\n");
+	printf("Enter a,x: \n");
 	cin >> a >> x;
 	cout << "\nDerivative = " << deriv(a, x);
 
