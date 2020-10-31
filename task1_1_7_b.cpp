@@ -25,4 +25,5 @@ int main1() {
 		if ((x1 < 0) && (x2 < 0)) { cout << "\nNo solutions: "; }
 	}
 	return 0;
+
 }
